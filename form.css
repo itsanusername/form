@@ -1,0 +1,67 @@
+﻿.auto-style1 {
+            width: 167px;
+}
+.auto-style2 {
+            width: 75px;
+}
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: large;
+    text-align: center;
+    background-color:gray;
+    padding:10px;
+    letter-spacing:4px;
+    word-spacing: 20px;
+    width:auto;
+
+}
+h4 {
+    margin:0;
+}
+textbox {
+
+}
+
+div.aspNetHidden{
+    display:none;
+}
+div {
+    margin-bottom:10px;
+    background-color:lightgray;
+    border-radius:5px;
+    padding:10px;
+    clear:left;
+}
+#div2 {
+float:left;
+width:100%;
+position:relative;
+}
+#div4 p{
+border:10px;
+text-indent:15px;
+}
+.rndcnr {
+    border-radius:5px;
+}
+.added {
+width:100px;
+}
+
+.ptagadded {
+    float:left;
+    text-align:center;
+    text-decoration:underline;
+    float:left;
+    margin-right:10px;
+
+}
+.ptagadded:hover {
+    cursor:pointer;
+    color:red; 
+}
+.tbxcategory {
+    width:220px;
+    margin-bottom:3px;
+}
